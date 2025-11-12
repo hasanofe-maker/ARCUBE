@@ -16,7 +16,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "hasanofecom.kullaniciadi.arcubeiki",
+      "package": "com.hasanofe.arcubeiki",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
