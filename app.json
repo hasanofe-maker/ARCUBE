@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "arcube_iki",
-    "slug": "snack-42551d1d-0d39-490a-a136-31e113459475",
+    "slug": "arcube_iki",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,6 +16,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "hasanofecom.kullaniciadi.arcubeiki",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
